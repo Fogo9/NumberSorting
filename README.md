@@ -16,8 +16,6 @@
 
 * Ordering of numbers is created with if - else if - else conditional statements.
 
-<br />
-
 ## CODES
 
 ```Java
