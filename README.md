@@ -1,14 +1,14 @@
 # **NUMBER SORTİNG**
 
-# Information
+## INFORMATION
 
 * **Sorting the entered numbers from smallest to largest is defined.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * For integer value input, integer definition and number1, number2, number3 values ​​are defined to receive data from the user.
 
@@ -18,7 +18,7 @@
 
 <br />
 
-# Codes
+## CODES
 
 ```Java
 
@@ -118,13 +118,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/NumberSorting.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
